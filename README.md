@@ -64,4 +64,4 @@ JavaScript (Scroll & Animation effects)
 
 🌟 Credits
 
-Crafted with ❤️ & Code by [Saurabh] for Muskan Sinha.
+ Code by Muskan Sinha.
