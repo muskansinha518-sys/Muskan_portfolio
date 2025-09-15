@@ -34,6 +34,9 @@ cd muskan-portfolio
 Simply open the index.html file in your favorite browser.
 
 📸 Sections
+<img width="1842" height="926" alt="Screenshot 2025-09-15 145655" src="https://github.com/user-attachments/assets/df97481e-73d4-4a8c-898a-1d6f79686d22" />
+<img width="1848" height="916" alt="Screenshot 2025-09-15 145714" src="https://github.com/user-attachments/assets/9b9e8b13-62f2-41fc-a978-ee4570e82812" />
+
 
 Home / Hero → Intro and tagline
 
